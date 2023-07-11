@@ -1,13 +1,14 @@
 <h1 align="center">We Are Fat Earth Society of DTU</h1>
 <h3 align="center">A group of passionate developers from DTU</h3>
 
-- 🔭 We're currently working on **Ourself**
+![View Count](https://profile-counter.glitch.me/Fat-Earth/count.svg)
 
-- 💬 Ask me about **Cringe**
+🔭 We're currently working on **Ourself**
+  
 
-- 📫 How to reach me **fatearthx@gmail.com**
+<h3 align="left">Connect with us:</h3>
 
-<h3 align="left">Connect with me:</h3>
+[![Gmail Badge](https://img.shields.io/badge/-fatearthx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fatearthx@gmail.com)](mailto:fatearthx@gmail.com)
 <p align="left">
 <a href="https://instagram.com/fatearth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatearth_" height="30" width="40" /></a>
 </p>
